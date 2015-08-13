@@ -9,4 +9,6 @@
 <br>
 <?php
 	echo "Hola Mundo";
+	<br>
+	echo "Chau Mundo";
 ?>
